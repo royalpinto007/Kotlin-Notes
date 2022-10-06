@@ -7,3 +7,5 @@ Composable functions are like regular functions with a few differences:
 fun Greeting(name: String) {
    Text(text = "Hello $name!")
 }
+
+A Modifier is used to augment or decorate your composable.
